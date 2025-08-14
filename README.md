@@ -1,4 +1,4 @@
-<img src="./photo_2025-08-04_12-41-46.jpg" alt="لوگوی کدیار"  border-radius: 50%>
+<img src="./photo_2025-08-04_12-41-46.jpg" alt="لوگوی کدیار"  style='border-radius: 50%'>
 <h1 align='center'>codey.ar</h1>
 <h2 align='center'>Frontend Developer</h2>
 <h2>My Expertise</h2>
