@@ -4,7 +4,7 @@
       src="./photo_2025-08-04_12-41-46.jpg" 
       alt="لوگوی کدیار" 
       width="200px" 
-      style="max-width: 100%; border-radius: 50%; object-fit: cover;">
+      style="max-width: 100%;>
   </a>
 </div>
 <h1 align='center'>codey.ar</h1>
