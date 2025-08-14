@@ -1,4 +1,6 @@
-
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/"><img src="/soufi-learn/soufi-learn/raw/main/logo.png" alt="لوگوی سوفیلرن" width="200px" style="max-width: 100%;"></a>
+</div>
 <h1 align='center'>codey.ar</h1>
 <h2 align='center'>Frontend Developer</h2>
 <h2>My Expertise</h2>
