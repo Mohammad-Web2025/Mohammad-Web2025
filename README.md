@@ -1,12 +1,4 @@
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/soufi-learn/soufi-learn/blob/main/logo.png">
-    <img 
-      src="./photo_2025-08-04_12-41-46.jpg" 
-      alt="لوگوی کدیار" 
-      width="200px" 
-      style="max-width: 100%;>
-  </a>
-</div>
+
 <h1 align='center'>codey.ar</h1>
 <h2 align='center'>Frontend Developer</h2>
 <h2>My Expertise</h2>
